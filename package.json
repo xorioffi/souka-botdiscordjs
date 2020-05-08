@@ -1,0 +1,12 @@
+{
+  "name": "soukabot",
+  "version": "0.1.0",
+  "description": "Bot pour Souka",
+  "main": "main.js",
+  "repository": "https://github.com/xorioffi/souka-botdiscordjs.git",
+  "author": "xorioffi <toniperret55@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
